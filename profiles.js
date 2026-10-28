@@ -4,11 +4,11 @@
 
 const SETTINGS = {
 
-    whatsapp: "https://melissa-742781.happy-talking.org/b/9EWKX9r2k49T-smNnCnq6He",
+    whatsapp: "https://maria-299029.happy-talking.org/b/RwezAfJnJec",
 
-    telegram: "https://karen-371445.spiod.sbs/b/SVi4_lJLDOIp",
+    telegram: "https://summer-402471.spiod.sbs/b/uMboJIHPpkrFqAPheiyJjeAFMsj43h",
 
-    tinder: "https://daisy-439333.happy-talking.org/b/lrlSmMlkyLGrlgbi6MC",
+    tinder: "https://matilda-481035.happy-talking.org/b/JsvxXk4VOKLw8tu",
 
     redirectSeconds: 10
 
